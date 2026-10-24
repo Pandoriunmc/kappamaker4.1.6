@@ -1,3 +1,4 @@
+Hi, my nickname is Pandoriun. Since I couldn't find the mod for the current version, I followed the instructions provided by the mod creator below and adapted the mod from the old version to the new one.
 # KappaMarker
 
 A SPT-AKI mod that marks quests required for Kappa container/Collector quest. It marks both quest names and descriptions.
