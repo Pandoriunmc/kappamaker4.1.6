@@ -1,0 +1,9 @@
+{
+  "modGuid": "com.cichaj.km",
+  "name": "KappaMarker",
+  "author": "Cichaj",
+  "version": "2.0.0",
+  "sptVersion": "~4.1.0",
+  "url": "https://github.com/rafalsoja/KappaMarker",
+  "license": "MIT"
+}
