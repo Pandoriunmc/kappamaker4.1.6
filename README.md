@@ -33,5 +33,6 @@ bin/Release/KappaMarker/KappaMarker.dll
 
 Create folder for plugin inside your game location and copy dll file inside it.
 ```
-Escape from Tarkov/SPT/user/mods/KappaMarker/KappaMarker.dll
+Escape from Tarkov/SPT/user/mods/KappaMarker
 ```
+Place all the files inside the mods folder.
